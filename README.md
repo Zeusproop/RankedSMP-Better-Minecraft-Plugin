@@ -2,9 +2,9 @@
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Available_Now-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/rankedsmp-better)
 
-A PaperMC plugin for Minecraft 1.21.4 that adds a competitive ranking system with unique abilities, extra inventory, and more.
+A PaperMC plugin for Minecraft 1.21.x that adds a competitive ranking system with unique abilities, extra inventory, and more.
 
-**Current Version:** 1.7.0
+**Current Version:** 1.6.0
 
 ---
 
