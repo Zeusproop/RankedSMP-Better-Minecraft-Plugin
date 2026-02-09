@@ -135,7 +135,7 @@ Extra inventory settings and drop behavior.
 
 ## Requirements
 
-- PaperMC 1.21.4
+- PaperMC 1.21.x
 - Java 21
 
 ---
