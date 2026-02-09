@@ -1,4 +1,4 @@
-# RankedSMP
+# RankedSMP - Better
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-Available_Now-00AF5C?style=for-the-badge&logo=modrinth)](https://modrinth.com/plugin/rankedsmp-better)
 
